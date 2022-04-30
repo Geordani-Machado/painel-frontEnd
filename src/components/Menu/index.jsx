@@ -10,7 +10,7 @@ function Menu (){
   <div class="shadow-lg rounded-2xl border border-blue-600  p-4 mt-2">
     <div class="flex items-center justify-between">
       <img style={{width: 40}}
-     src="https://logospng.org/download/hotmart/logo-hotmart-icone-1024.png" alt="img"/>
+        src="https://logospng.org/download/hotmart/logo-hotmart-icone-1024.png" alt="img"/>
        </div>
     </div>
 </a>    
@@ -24,6 +24,7 @@ function Menu (){
            </div>
      </div>
 </a>
+
 <a href="/admin/woo"> 
     <div class="shadow-lg rounded-2xl border border-blue-600 p-4 mt-2">
       <div class="flex items-center justify-between">
@@ -32,6 +33,15 @@ function Menu (){
        </div>
     </div>
 </a>   
+
+<a href="/admin/woo"> 
+    <div class="shadow-lg rounded-2xl border border-blue-600 p-4 mt-2">
+      <div class="flex items-center justify-between">
+       <img style={{width: 40}}
+      src="https://img.icons8.com/color/452/woocommerce.png" alt="img"/> 
+       </div>
+    </div>
+</a>  
 
 </div> 
   )

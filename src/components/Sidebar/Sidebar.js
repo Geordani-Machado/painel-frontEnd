@@ -6,15 +6,13 @@ class Sidebar extends React.Component {
   render() {
     return (
       <>
+      
       <Disclosure as="nav" className="bg-indigo-600">
             <div className="max-w-7xl mx-auto  ">
               <div className="flex items-center justify-between h-16 navbar-vertical">
               <a href="/" >
-                    <img 
-                      className="h-15 w-28"
-                      src="https://imgur.com/bhGu9Sq.png"
-                      alt="Workflow"
-                    /></a>
+                   <h1> logo aqui</h1>  
+                  </a>
               </div>
             </div>
       </Disclosure>

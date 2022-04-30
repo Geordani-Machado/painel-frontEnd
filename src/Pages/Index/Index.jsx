@@ -21,10 +21,8 @@ function App (){
     </p>
     
       <p class="text-2xl text-black dark:text-white ml-2 mb-2 mt-2"> 
-          conecte o sistema ao seu whatsapp para configurar o chatbot
+          Bem vindo vindo(a) ao PromrAmar ❤️
           <br/>
-
-          
       </p>
 
       <Cards/>
